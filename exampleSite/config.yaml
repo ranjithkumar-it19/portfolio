@@ -169,7 +169,7 @@ params:
     # index: true
     items:
       - title: "Bachelor Of Technology ,Sathyamangalam"
-        school: "SRM Muthamizhl Higher Secondary School"
+        school:
           name: "Bannari Amman Institute Of Technology"
           url: "https://example.org"
         year of passing: "2019 - 2023"
