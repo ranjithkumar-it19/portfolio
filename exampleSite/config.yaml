@@ -11,7 +11,7 @@ markup:
       unsafe: true
 
 params:
-  title: "Hugo Profile"
+  title: "Personal Portfolio"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
