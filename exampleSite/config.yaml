@@ -92,8 +92,8 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
+        - "C"
+        - "C++"
         - "JavaScript"
         - "React"
         - "Node"
@@ -168,12 +168,12 @@ params:
     enable: true
     # index: true
     items:
-      - title: "Master of Business Administration"
-        school:
-          name: "University of California, Berkeley"
+      - title: "Bachelor Of Technology ,Sathyamangalam"
+        school: "SRM Muthamizhl Higher Secondary School"
+          name: "Bannari Amman Institute Of Technology"
           url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+        year of passing: "2019 - 2023"
+        CGPA: "8.54"
         content: |-
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
