@@ -31,7 +31,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/resume.pdf"
+      url: "/192IT217_IT.pdf"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
