@@ -1,6 +1,6 @@
 baseURL: "https://ranjithkumar.netlify.app/"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Ranjithkumar"
 theme: hugo-profile
 
 Paginate: 3
@@ -123,7 +123,7 @@ params:
     btnName: Mail me
 
   footer:
-    # recentPosts: false
+    recentPosts: false
     socialNetworks:
       github: https://github.com/ranjithkumar-it19
       linkedin: https://www.linkedin.com/in/ranjithkumar-v-0a85611aa/
