@@ -115,7 +115,7 @@ params:
           url: "https://www.google.com/search?gs_ssp=eJzj4tTP1TdIqrIoKDNg9OJNSszLSyzKVEjMzU3MAwBtNAiW&q=bannari+amman&rlz=1C1SQJL_enIN942IN942&oq=bannari+amma&aqs=chrome.1.69i57j46i39j46i20i175i199i263i512j0i67j46i199i465i512j46i131i175i199i433i512j0i512j69i61.8946j0j4&sourceid=chrome&ie=UTF-8"
         year of passing: "2019 - 2023"
         CGPA: "8.54"
-        school:"LKG -12"
+        school: "LKG -12"
           name: "SRM Muthamizhl higher secondary school,periyeri"
           url: "https://targetstudy.com/school/69600/muthamizhi-higher-secondary-school/"
         
@@ -133,8 +133,5 @@ params:
   footer:
     # recentPosts: false
     socialNetworks:
-      github: 
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/ranjithkumar-it19
+      linkedin: https://www.linkedin.com/in/ranjithkumar-v-0a85611aa/
