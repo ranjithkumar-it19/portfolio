@@ -95,15 +95,7 @@ params:
       items:
         - "C"
         - "C++"
-  # Experience
-  experience:
-    enable: true
-    items:
-        enable: false
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content:
+  
   # Education
   education:
     enable: true
