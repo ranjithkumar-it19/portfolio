@@ -25,13 +25,13 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "RANJITHKUMAR V"
-    subtitle: "I build things for the web"
+    # subtitle: "I build things for the web"
     content: "I am studying 3rd year ,Bachelor of technology in Bannari Amman Institute Of Technology.I have cgpa of 8.54(upto 5th semester).I am from Salem my fathername is varadharaj P. my mothername is malarani V ."
     image: /IMG-20220324-WA0034.jpg
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "/resume.pdf"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
