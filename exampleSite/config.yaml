@@ -99,7 +99,7 @@ params:
   experience:
     enable: true
     items:
-          enable: false
+        enable: false
         featuredLink:
           enable: true
           url: "https://example.com"
