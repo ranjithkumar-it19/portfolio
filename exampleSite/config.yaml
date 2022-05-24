@@ -77,7 +77,7 @@ params:
         content: |-
         featuredLink:
           enable: true
-          name: "My academic record"
+          name: ""
   #Contact
   contact:
     enable: true
