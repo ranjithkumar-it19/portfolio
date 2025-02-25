@@ -28,7 +28,7 @@ params:
     # subtitle: "I build things for the web"
     content: "I am studying third year, Information Technology.
               Bachelor of technology in Bannari Amman Institute Of Technology.
-              I have cgpa of 8.54(upto 5th semester).
+              I have cgpa of 8.39.
               my fathername is varadharaj P.
               my mothername is malarani V .
               "
@@ -56,14 +56,17 @@ params:
     content: |-
       I am a student in Bannari Amman Institute Of Technolgy. 
       department: Information Technology.
-      cgpa : 8.54.
+      cgpa : 8.39.
       
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "C"
-        - "C++"
+        - "Java"
+        - "HTML"
+        - "CSS"
+        - "Javascript"
+        - "Bootstrap"
   
   # Education
   education:
@@ -75,7 +78,7 @@ params:
           name: "Bannari Amman Institute Of Technology"
           url: "https://www.google.com/search?gs_ssp=eJzj4tTP1TdIqrIoKDNg9OJNSszLSyzKVEjMzU3MAwBtNAiW&q=bannari+amman&rlz=1C1SQJL_enIN942IN942&oq=bannari+amma&aqs=chrome.1.69i57j46i39j46i20i175i199i263i512j0i67j46i199i465i512j46i131i175i199i433i512j0i512j69i61.8946j0j4&sourceid=chrome&ie=UTF-8"
         year of passing: "2019 - 2023"
-        CGPA: "8.54"
+        CGPA: "8.39"
         school:
           name: "SRM Muthamizhl higher secondary school,periyeri"
           url: "https://targetstudy.com/school/69600/muthamizhi-higher-secondary-school/"
