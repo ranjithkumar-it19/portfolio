@@ -23,21 +23,21 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
+    Intro: "Hi, my name is"
     title: " RANJITHKUMAR V "
     # subtitle: "I build things for the web"
-    content: "I am studying third year, Information Technology.
-              Bachelor of technology in Bannari Amman Institute Of Technology.
-              I have cgpa of 8.39.
-              my fathername is varadharaj P.
-              my mothername is malarani V .
+    content: "I am an Engineering Graduate in Information Technology.
+              Bachelor of Technology in Bannari Amman Institute Of Technology.
+              I have a CGPA of 8.39.
+              My father's name is Varadharaj P.
+              My mother's name is Malarani V.
               "
              
     image: /IMG-20220324-WA0034.jpg
     button:
       enable: true
       name: "Resume"
-      url: "/192IT217_IT.pdf"
+      url: "/Ranjithkumar_resume.pdf"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
@@ -54,9 +54,9 @@ params:
     title: "About Me"
     image: "/IMG-20220324-WA0034.jpg"
     content: |-
-      I am a student in Bannari Amman Institute Of Technolgy. 
+      I am an Engineering Graduate. 
       department: Information Technology.
-      cgpa : 8.39.
+      cgpa: 8.39.
       
     skills:
       enable: true
@@ -65,22 +65,25 @@ params:
         - "Java"
         - "HTML"
         - "CSS"
-        - "Javascript"
+        - "JavaScript"
         - "Bootstrap"
+        - "React JS"
+        - "MYSQL"
   
   # Education
   education:
     enable: true
     # index: true
     items:
-      - title: "Bannari Amman Institute Of Technology,B-tech,Sathyamangalam"
+      - title: "Bannari Amman Institute Of Technology, B-tech, Sathyamangalam"
         school: 
           name: "Bannari Amman Institute Of Technology"
           url: "https://www.google.com/search?gs_ssp=eJzj4tTP1TdIqrIoKDNg9OJNSszLSyzKVEjMzU3MAwBtNAiW&q=bannari+amman&rlz=1C1SQJL_enIN942IN942&oq=bannari+amma&aqs=chrome.1.69i57j46i39j46i20i175i199i263i512j0i67j46i199i465i512j46i131i175i199i433i512j0i512j69i61.8946j0j4&sourceid=chrome&ie=UTF-8"
         year of passing: "2019 - 2023"
         CGPA: "8.39"
+      - title: "SRM Muthamizhl Higher Secondary School, Periyeri"
         school:
-          name: "SRM Muthamizhl higher secondary school,periyeri"
+          name: "SRM Muthamizhl Higher Secondary School, Periyeri"
           url: "https://targetstudy.com/school/69600/muthamizhi-higher-secondary-school/"
         
         content: |-
@@ -99,3 +102,4 @@ params:
     socialNetworks:
       github: https://github.com/ranjithkumar-it19
       linkedin: https://www.linkedin.com/in/ranjithkumar-v-0a85611aa/
+
